@@ -5,6 +5,5 @@ public class Biginner_code
    {
       System.out.println("Helo World. GN!");
       System.out.println("welcome");
-      System.out.println("bc");
    } 
 }
